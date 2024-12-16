@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, my name is Igor
+# 👋 Hi, my name is Ivan
 
 ### Head of the Department of Information Systems and Technologies of the Polar State University 🇷🇺
 
